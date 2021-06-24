@@ -14,6 +14,8 @@ stop is used to stop the car using stop function we call clearinterval
 ### Final position of car 
 
  whenever the car reaches the end  the car position  will be initialized to start  
+ ![image](https://user-images.githubusercontent.com/68627259/123227712-7a106100-d4f2-11eb-8408-62e2eddfa354.png)
+
 
 
 
