@@ -3,6 +3,8 @@
 ###use of start stop button
 
 ![image](https://user-images.githubusercontent.com/68627259/123226048-eab67e00-d4f0-11eb-9bca-dcaac99e171f.png)
+
+
 start is used to move car along x axis 
 using function setinterval()
 stop is used to stop the car
