@@ -11,5 +11,9 @@ using function setinterval()
 
 stop is used to stop the car using stop function we call clearinterval
 
+### Final position of car 
+
+ whenever the car reaches the end  the car position  will be initialized to start  
+
 
 
