@@ -7,6 +7,8 @@
 
 start is used to move car along x axis 
 using function setinterval()
+
+
 stop is used to stop the car using stop function we call clearinterval
 
 
